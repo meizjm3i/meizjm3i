@@ -7,7 +7,7 @@
 
 - 🤔 蚂蚁集团非攻实验室，Nu1L@Web
 - 🆔 ID: 梅子酒/meizjm3i/meizj
-- 📮 邮箱: meizijium3i@gmail.com / 960596293@qq.com / haowen.mhw@antgroup.com
+- 📮 邮箱: meizijium3i@gmail.com / haowen.mhw@antgroup.com
 - 💬 知乎: https://www.zhihu.com/people/meizjm3i
 - 📖 博客: https://meizjm3i.github.io/
 
